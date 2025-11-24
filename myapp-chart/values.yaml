@@ -1,0 +1,10 @@
+environment: dev  # dev, staging, prod
+replicaCount: 2
+
+image:
+  repository: nginx
+  tag: "1.25"
+
+service:
+  type: ClusterIP
+  port: 80
