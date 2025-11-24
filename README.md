@@ -33,6 +33,7 @@
 [chart](https://github.com/Werest/kuber-homeworks_2.4/tree/main/myapp-chart)
 
 <img width="1055" height="1307" alt="image" src="https://github.com/user-attachments/assets/bc50b6c5-29d1-4a9d-8181-fd53bb170c21" />
+<img width="926" height="306" alt="image" src="https://github.com/user-attachments/assets/3f845617-d1a9-4d50-abc3-055f9a979f36" />
 
 ------
 
