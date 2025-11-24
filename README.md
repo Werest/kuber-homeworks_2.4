@@ -30,6 +30,7 @@
 3. В переменных чарта измените образ приложения для изменения версии.
 ------
 
+[chart](https://github.com/Werest/kuber-homeworks_2.4/tree/main/myapp-chart)
 
 <img width="1055" height="1307" alt="image" src="https://github.com/user-attachments/assets/bc50b6c5-29d1-4a9d-8181-fd53bb170c21" />
 
