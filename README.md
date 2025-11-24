@@ -30,7 +30,8 @@
 3. В переменных чарта измените образ приложения для изменения версии.
 ------
 
-Ссылка на Chart - 
+
+<img width="1055" height="1307" alt="image" src="https://github.com/user-attachments/assets/bc50b6c5-29d1-4a9d-8181-fd53bb170c21" />
 
 ------
 
