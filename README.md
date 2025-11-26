@@ -43,8 +43,8 @@
 2. Одну версию в namespace=app1, вторую версию в том же неймспейсе, третью версию в namespace=app2.
 3. Продемонстрируйте результат.
 ------
-
-
+<img width="1404" height="1184" alt="image" src="https://github.com/user-attachments/assets/d33e0d02-7a38-4f21-8df5-df187a9f4e3c" />
+<img width="691" height="219" alt="image" src="https://github.com/user-attachments/assets/20b97d4b-d39d-48a8-8f9c-9c3be9b3002a" />
 
 ------
 
